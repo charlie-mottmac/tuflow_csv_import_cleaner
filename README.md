@@ -1,8 +1,8 @@
-# Insert Repository Name Here
+# TuFlow CSV Cleaner
 <img src="/thumbnail.png" width="200">
 
 ## Description
-Insert repository description here. Please ensure that a prospective user is able to clearly understand the purpose of this repository from this description.
+Cleans TuFlow data for import to something
 
 ## Repository Ownership
 * **Practice**: INSERT HERE
