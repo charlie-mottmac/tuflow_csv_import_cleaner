@@ -8,7 +8,7 @@ Cleans TuFlow data for import to something
 * **Practice**: Civil / Drainage / Water 
 * **Sector**: - Built Env
 * **Original Author(s)**: - Tony Ridley
-* **Contact Details for Current Repository Owner(s)**: - tony.riidley@mottmac.com
+* **Contact Details for Current Repository Owner(s)**: - tony.ridley@mottmac.com
 ## Installation Instructions
 None. 
 ## Running the Code
