@@ -5,15 +5,14 @@
 Cleans TuFlow data for import to something
 
 ## Repository Ownership
-* **Practice**: INSERT HERE
-* **Sector**: - INSERT HERE
-* **Original Author(s)**: - INSERT HERE
-* **Contact Details for Current Repository Owner(s)**: - INSERT HERE
+* **Practice**: Civil / Drainage / Water 
+* **Sector**: - Built Env
+* **Original Author(s)**: - Tony Ridley
+* **Contact Details for Current Repository Owner(s)**: - tony.riidley@mottmac.com
 ## Installation Instructions
-In order to successfully run the code in this respository, it is recommended that you create a virtual environment and install the required packages from the requirements.txt file provided. 
-
+None. 
 ## Running the Code
-Insert instructions on how to run the code here.
+Cut/Paste the code into the Excel VBA Editor
 
 ```
 
