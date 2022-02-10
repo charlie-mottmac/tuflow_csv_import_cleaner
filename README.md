@@ -1,11 +1,10 @@
-# TuFlow CSV Cleaner
+# TuFlow Import CSV Cleaner
 <img src="/thumbnail.png" width="200">
 
-## Description
-Cleans TuFlow data for import to something
+:stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
 
-## Installation Instructions
-None. 
+## Description
+Cleans flood model text data for import to **TuFlow**
 
 ### Running the Code
 Cut/Paste the code into the Excel VBA Editor
