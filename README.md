@@ -7,7 +7,7 @@ Cleans TuFlow data for import to something
 ## Installation Instructions
 None. 
 
-## Running the Code
+### Running the Code
 Cut/Paste the code into the Excel VBA Editor
 
 ```
